@@ -1,6 +1,6 @@
 # Cinema - Example of Microservices in Go with Docker, Kubernetes and MongoDB
 
-## Overview
+## Overview of Cinema
 
 Cinema is an example project which demonstrates the use of microservices for a fictional movie theater.
 The Cinema backend is powered by 4 microservices, all of which happen to be written in Go, using MongoDB for manage the database and Docker to isolate and deploy the ecosystem.
